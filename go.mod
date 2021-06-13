@@ -1,4 +1,4 @@
-module github.com/jfcote87/ctxclient
+module github.com/ICGGroup/ctxclient
 
 go 1.11
 
