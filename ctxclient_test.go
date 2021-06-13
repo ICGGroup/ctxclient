@@ -12,8 +12,8 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/jfcote87/ctxclient"
-	"github.com/jfcote87/testutils"
+	"github.com/ICGGroup/ctxclient"
+	"github.com/ICGGroup/testutils"
 )
 
 // TestNullFunc ensures that a null Func will return defaults

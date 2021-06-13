@@ -6,7 +6,7 @@
 
 // App Engine hooks is based upon appengine code in golang.org/x/oauth2
 
-package ctxclient // import "github.com/jfcote87/ctxclient"
+package ctxclient // import "github.com/ICGGroup/ctxclient"
 
 import (
 	"context"

@@ -9,7 +9,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/jfcote87/ctxclient"
+	"github.com/ICGGroup/ctxclient"
 )
 
 func Example_func_nil() {

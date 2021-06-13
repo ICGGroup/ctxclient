@@ -10,7 +10,7 @@
 // Usage example:
 //
 //   import (
-//       "github.com/jfcote87/ctxclient"
+//       "github.com/ICGGroup/ctxclient"
 //   )
 //   ...
 //   var clf *ctxclient.Func
@@ -18,7 +18,7 @@
 //   res, err := clf.Do(req)
 //   ...
 //
-package ctxclient // import "github.com/jfcote87/ctxclient"
+package ctxclient // import "github.com/ICGGroup/ctxclient"
 
 import (
 	"context"
